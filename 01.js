@@ -43,6 +43,6 @@ cate:"recommend"
 
 
 })
-// $(function () {
+$(function () {
 
-// })
+})
